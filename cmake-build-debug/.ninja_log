@@ -1,0 +1,7 @@
+# ninja log v5
+1	277	7096741470799304	build.ninja	db5b99cb8c87e41f
+7	623	7096740501382245	CMakeFiles/server_side.dir/src/repositories/LocalDataRepositoryImpl.cpp.obj	3502b5c969ecf436
+25	731	7096740502437506	CMakeFiles/server_side.dir/src/database/Database.cpp.obj	d96dea5cc8582413
+19	4812	7096740543210436	CMakeFiles/server_side.dir/src/Utils.cpp.obj	bde3d47d7bd18950
+1	10324	7096740598287414	CMakeFiles/server_side.dir/main.cpp.obj	5c279c4c48d1a3dd
+13	10818	7096740603207889	CMakeFiles/server_side.dir/src/network/Server.cpp.obj	318e737f9e45bdd9
