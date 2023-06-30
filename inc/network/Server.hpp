@@ -12,6 +12,7 @@ private:
 
     void route_register();
     void route_login();
+    void route_actvities();
 public:
     Server();
     ~Server();

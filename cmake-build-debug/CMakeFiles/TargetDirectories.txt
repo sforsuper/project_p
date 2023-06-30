@@ -1,3 +1,0 @@
-C:/Users/Администратор/CLionProjects/server_side/cmake-build-debug/CMakeFiles/server_side.dir
-C:/Users/Администратор/CLionProjects/server_side/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Администратор/CLionProjects/server_side/cmake-build-debug/CMakeFiles/rebuild_cache.dir
